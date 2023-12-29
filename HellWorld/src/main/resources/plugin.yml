@@ -1,0 +1,4 @@
+name: HellWorld
+version: '${version}'
+main: skjsjhb.mc.hellworld.HellWorld
+api-version: '1.20'
