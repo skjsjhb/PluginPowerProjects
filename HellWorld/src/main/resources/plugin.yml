@@ -1,0 +1,4 @@
+name: HellWorld
+version: '1.0-SNAPSHOT'
+main: moe.skjsjhb.mc.hellWorld.HellWorld
+api-version: '1.20'
